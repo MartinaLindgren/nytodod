@@ -94,3 +94,12 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+h2{
+  color:red;
+  size:14px;
+
+}
+p{
+  color:blue;
+  size: 12px;
+}
